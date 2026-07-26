@@ -1,7 +1,7 @@
 # Phishing Email Investigation and Safe Triage
 
 ## Overview
-This project documents the safe investigation of a suspicious email containing a malicious-looking link inside a controlled malware analysis lab..
+This project documents the safe investigation of a suspicious email containing a potentially malicious link inside a controlled malware analysis lab..
 
 ## Project Objective
 The purpose of this project was to investigate a suspicious email, determine whether it displayed phishing characteristics, and safely analyse its contents without exposing the host system to unnecessary risk. The project also demonstrates basic incident triage, evidence handling, and safe analysis workflows that are relevant to SOC L1 and cybersecurity roles.
