@@ -43,6 +43,7 @@ The investigation followed a simple and safe workflow:
 The screenshot below shows the hyperlink configuration used in the phishing email. I hid the malicious destination behind a link that appeared harmless.
 
 
+![image alt](https://github.com/J-Walker-Git/project-1-phishing-email-investigation/blob/a7415871c9543df53c6d17ba35507df48825899a/screenshots/phishing-email-setup.png)
 
 ### 2. Suspicious Email Received
 The email used a prize-based lure and attempted to pressure the user into clicking a link before a deadline. To preserve the email for safe offline inspection, the message was saved in `.eml` format.
