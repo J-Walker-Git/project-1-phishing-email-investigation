@@ -50,6 +50,8 @@ The email used a prize-based lure and attempted to pressure the user into clicki
 
 
 
+![image alt](https://github.com/J-Walker-Git/project-1-phishing-email-investigation/blob/63fe97a86d3efce71d7eb263c9bf462929a5a4b4/screenshots/phishing-email-received.png)
+
 ### 3. Exporting the Email as an EML File
 The eml file was drage and dropped from the host machine to the VM sandbox. This allows analysis without interacting with the live email repeatedly and helps maintain evidence integrity.
 
