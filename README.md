@@ -63,8 +63,7 @@ The eml file was drage and dropped from the host machine to the VM sandbox. This
 Before analysis, Python 3 and supporting packages were verified in the REMnux virtual machine. This step ensured that the analysis tooling could run correctly in the isolated environment.
 
 
-
-**Figure 4.** Python 3 and related packages being installed or updated inside the REMnux analysis VM.
+![image alt](https://github.com/J-Walker-Git/project-1-phishing-email-investigation/blob/05d4f697d42c0fdb2a98339e512d69c0ba547a49/screenshots/python-3-install.png)
 
 ### 5. Running the Analyser
 The `.eml` file was placed inside the phishing analysis workspace and processed with a Python-based analyser. The script extracted the sender information, subject line, and URL contained in the message.
