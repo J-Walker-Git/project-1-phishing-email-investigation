@@ -68,7 +68,7 @@ The `.eml` file was placed inside the phishing analysis workspace and processed 
 
 
 
-**Figure 5.** Analyzer output showing the email subject, sender, and a discovered URL inside the message body.
+![alt image](https://github.com/J-Walker-Git/project-1-phishing-email-investigation/blob/6a048a2f7a0e7848bc176568a9f008d32954e683/screenshots/analyser-report.png)
 
 ## Findings
 The investigation identified several indicators commonly associated with phishing:
