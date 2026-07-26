@@ -57,7 +57,7 @@ The eml file was drage and dropped from the host machine to the VM sandbox. This
 
 
 
-**Figure 3.** Suspicious email saved as an `.eml` file before transfer to the REMnux investigation environment.
+![image alt](https://github.com/J-Walker-Git/project-1-phishing-email-investigation/blob/1435efcb23df65f268974608d233403597fbcf31/screenshots/remnux-transfer-email.png)
 
 ### 4. Preparing the REMnux Environment
 Before analysis, Python 3 and supporting packages were verified in the REMnux virtual machine. This step ensured that the analysis tooling could run correctly in the isolated environment.
