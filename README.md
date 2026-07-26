@@ -1,6 +1,3 @@
-## 🚀 My First Project
-_Captain's log - _Star date: 15th of July 2026.__
-
 ## 👋🏾**DESCRIPTION**
 This is my first official project as I begin my career in cybersecurity.
 
@@ -18,7 +15,7 @@ In a perfect world, the emails we recieve would all be legitimate, honest and **
 ...so in the meantime we all need to learn how to identify suspicious emails and know the necessary steps to take to avoid being the next victim of a malware attack.
 
 
-## 🛠️ Lab Environment & Topology
+## 🛠️ Lab Environment
 To ensure safe execution and analysis of potentially malicious indicators, all triage actions were contained within a virtualized sandbox.
 
 * **Hypervisor:** VMware Workstation Pro (Windows 11 Host)
