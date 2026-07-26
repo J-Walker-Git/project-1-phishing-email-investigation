@@ -105,7 +105,6 @@ This project reinforced several important cybersecurity concepts:
 - Evidence preservation
 - Virtual machine usage
 - Basic Python tool execution
-- Technical documentation
 
 ## Future Improvements
 Ways I would expand on this project would be to provide the VirusTotal API key for further results and also include a short incident response playbook for phishing emails
